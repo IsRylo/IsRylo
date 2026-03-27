@@ -1,12 +1,12 @@
 # Hi there, I'm Loysing 👋
 
-I'm an entry-level developer passionate about **Machine Learning**, **Full Stack Development**, and **Data Science**. I enjoy building projects that of AI and real-world problem solving.
+Bachelor of Computer Science (Software Development) graduate from Swinburne University of Technology. I'm driven by building practical solutions — whether that's training ML models, designing backend APIs, or programming web and mobile apps. Currently open to internships and entry-level roles.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science / Software Engineering *(update this with your degree/school)*
+- 🎓 Graduated Computer Science Software Engineering  in Swinburne University of Technology
 - 🤖 Interested in ML/AI, backend systems, and full stack web apps
 - 🌱 Currently deepening my knowledge in deep learning and backend API development
 - 💼 Actively looking for **entry-level roles** in Data/ML/AI, Full Stack, or Backend development
