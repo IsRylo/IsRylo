@@ -1,6 +1,6 @@
 # Hi there, I'm Loysing 👋
 
-I'm an entry-level developer passionate about **Machine Learning**, **Full Stack Development**, and **Data Science**. I enjoy building projects that sit at the intersection of AI and real-world problem solving — from medical diagnostics to data visualization.
+I'm an entry-level developer passionate about **Machine Learning**, **Full Stack Development**, and **Data Science**. I enjoy building projects that of AI and real-world problem solving.
 
 ---
 
@@ -21,6 +21,10 @@ I'm an entry-level developer passionate about **Machine Learning**, **Full Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 **ML / Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -34,6 +38,7 @@ I'm an entry-level developer passionate about **Machine Learning**, **Full Stack
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
 ---
 
@@ -48,15 +53,11 @@ I'm an entry-level developer passionate about **Machine Learning**, **Full Stack
 | [🧠 Migraine Diagnosis Tool](https://github.com/IsRylo/migraine-diagnosis) | Decision tree web app for migraine diagnosis built from a DLL | Python, scikit-learn, HTML/CSS |
 | [📊 OECD GDP & Employment Viz](https://github.com/IsRylo/oecd-data-viz) | Heatmap data visualization of GDP and employment across OECD countries | Python, Pandas, Matplotlib/Seaborn |
 
-> ⚠️ *Update the repo links above to match your actual repository names.*
-
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/loysing-ismanto-142521280)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:loysingryono@gmail.com)
 
 ---
-
-*"Building things that learn, one model at a time."*
