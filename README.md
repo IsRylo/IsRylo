@@ -46,12 +46,12 @@ Bachelor of Computer Science (Software Development) graduate from Swinburne Univ
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎭 Face Mask Detection](https://github.com/IsRylo/face-mask-detection) | CNN model to detect face mask usage in real time | Python, TensorFlow, Keras |
-| [🅿️ Parking Ticket Manager](https://github.com/IsRylo/parking-ticket-manager) | Mobile app for managing parking lot ticketing | Java, Android Studio, Firebase |
-| [❤️ PPG Heart Rate Monitor](https://github.com/IsRylo/ppg-heart-rate) | Heart rate measurement using CNN and HeartPy on PPG signals | Python, HeartPy, TensorFlow |
-| [📚 Manga CRUD App](https://github.com/IsRylo/manga-crud) | Full stack CRUD website for managing manga collections | React, Node.js, HTML/CSS |
-| [🧠 Migraine Diagnosis Tool](https://github.com/IsRylo/migraine-diagnosis) | Decision tree web app for migraine diagnosis built from a DLL | Python, scikit-learn, HTML/CSS |
-| [📊 OECD GDP & Employment Viz](https://github.com/IsRylo/oecd-data-viz) | Heatmap data visualization of GDP and employment across OECD countries | Python, Pandas, Matplotlib/Seaborn |
+| [🎭 Face Mask Detection](https://github.com/IsRylo/ML_UAS) | CNN model to detect face mask usage in real time | Python, TensorFlow, Keras |
+| [🅿️ Parking Ticket Manager](https://github.com/IsRylo/lanpu) | Mobile app for managing parking lot ticketing | Java, Android Studio, Firebase |
+| [❤️ PPG Heart Rate Monitor](https://github.com/IsRylo/ICT_ppg) | Heart rate measurement using CNN and HeartPy on PPG signals | Python, HeartPy, TensorFlow |
+| [📚 Manga CRUD App](https://github.com/IsRylo/UAS_webprog) | CRUD website for managing manga collections | React, Node.js, HTML/CSS |
+| [🧠 Migraine Diagnosis Tool](https://github.com/IsRylo/Diagnosis-Migraine) | Decision tree web app for migraine diagnosis built from a DLL | Python, scikit-learn, HTML/CSS |
+| [📊 OECD GDP & Employment Viz](https://github.com/IsRylo/COS30045-Data-Visualization) | Heatmap data visualization of GDP and employment across OECD countries | Python, Pandas, Matplotlib/Seaborn |
 
 ---
 
